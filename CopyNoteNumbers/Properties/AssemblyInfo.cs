@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("CopyNoteNumbers")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("音程コピペ")]
+[assembly: AssemblyDescription("UTAUで音程だけをコピペするためのプラグインです")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("CopyNoteNumbers")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2014")]
+[assembly: AssemblyCompany("みこぺろ")]
+[assembly: AssemblyProduct("音程コピペ")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

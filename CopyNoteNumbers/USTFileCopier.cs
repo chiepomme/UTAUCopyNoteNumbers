@@ -1,14 +1,16 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using System.Text.RegularExpressions;
+﻿using System.IO;
+using System.Windows.Forms;
 
 namespace CopyNoteNumbers
 {
     public class USTFileCopier
     {
-        public const string DefaultCopyPath = @"copy.ust";
+        public static string DefaultCopyPath
+        {
+            get { return Path.Combine(Application.UserAppDataPath, "copy.ust"); }
+        }
 
-        public void Copy(string fromPath, string toPath = DefaultCopyPath)
+        public void Copy(string fromPath, string toPath)
         {
             File.Copy(fromPath, toPath, true);
         }

@@ -1,0 +1,47 @@
+[#VERSION]
+UST Version 1.20
+[#SETTING]
+Tempo=120.00
+VoiceDir=C:\Program Files (x86)\UTAU\voice\uta
+CacheDir=
+Mode2=True
+[#PREV]
+Length=1260
+Lyric=‚ 
+NoteNum=74
+Intensity=100
+Modulation=0
+VBR=65,180,14,20,20,0,0,0
+@preuttr=0
+@overlap=0
+@stpoint=0
+@filename=‚ .wav
+@alias=‚ 
+[#0001]
+Length=1440
+Lyric=‚ 
+NoteNum=69
+Intensity=100
+Modulation=0
+PBS=-54
+PBW=106
+VBR=65,180,14,20,20,0,0,0
+@preuttr=0
+@overlap=0
+@stpoint=0
+@filename=‚ .wav
+@alias=‚ 
+[#NEXT]
+Length=1620
+Lyric=‚ 
+NoteNum=75
+Intensity=100
+Modulation=0
+PBS=-57
+PBW=113
+VBR=65,180,14,20,20,0,0,0
+@preuttr=0
+@overlap=0
+@stpoint=0
+@filename=‚ .wav
+@alias=‚ 

@@ -1,0 +1,4 @@
+type=editplugin
+folder=音程コピペ
+contentsdir=音程コピペ
+description=音程だけをコピペするためのプラグインです。
